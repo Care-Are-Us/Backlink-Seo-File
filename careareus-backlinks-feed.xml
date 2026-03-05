@@ -5,14 +5,14 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/">
 
 <channel>
-<title>Care Are Us Backlinks Feed</title>
+<title>Care Are Us</title>
 <link>https://careareus.com.au/</link>
 <description>External backlinks feed for Care Are Us</description>
 <language>en-au</language>
 <lastBuildDate>Tue, 04 Mar 2026 10:00:00 +0000</lastBuildDate>
 <generator>Custom RSS Generator</generator>
 
-<atom:link href="https://careareus.com.au/careareus-backlinks-feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://care-are-us.github.io/Backlink-Seo-File/careareus-backlinks-feed.xml" rel="self" type="application/rss+xml"/>
 
 <item>
 <title>Domestic Care Gold Coast</title>
